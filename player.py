@@ -21,11 +21,3 @@ class Player(Turtle):
 
     def player_move(self):
         self.forward(MOVE_DISTANCE)
-
-
-
-'''
-Kubectl is my new boy
-### the new line of code#
-123489398z fh9ezf f098#
-'''
