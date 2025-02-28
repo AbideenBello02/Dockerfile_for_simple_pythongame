@@ -48,20 +48,3 @@ while game_is_on:
         scoreboard.increment_score()
 
 screen.exitonclick()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Tommy wuye lo so mi di baba won.
