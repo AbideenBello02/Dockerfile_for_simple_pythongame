@@ -24,9 +24,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 # 6️⃣ Set the default command to run the game using a virtual display (for GUI support)
 CMD ["xvfb-run", "python", "main.py"]
 
-
-#set health check
-HEALTHCHECK --interval 30s 
 							
 
 # What port to expose to 
